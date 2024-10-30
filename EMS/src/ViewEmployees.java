@@ -87,11 +87,6 @@ e.printStackTrace();
     back.setBounds(380,55,100,20);
     back.addActionListener(this);
     add(back);
-
-
-
-
-
     add(js);
 
 
